@@ -21,4 +21,5 @@ void MainWindow::pushButtonclicked()
    QMessageBox::information(this,"","I create conflice");
 
    //conflictest:write this sentence.
+   //stashed test 临时工作保存；
 }
