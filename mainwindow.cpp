@@ -7,7 +7,7 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    connect(ui->pushButton,SIGNAL(clicked()),this,SLOT(pushButtonclicked()));
+    connect(ui->pushButton,SIGNAL(clicked()),this,SLOT(pushButtonclicked()));//don't
 
 }
 
@@ -21,7 +21,7 @@ MainWindow::~MainWindow()
 
 void MainWindow::pushButtonclicked()
 {
-   QMessageBox::information(this,"","I create xxxxxx");
+   //QMessageBox::information(this,"","I create xxxxxx");
 
    //master: I write this XXX;
    //conflictest:write this sentence.
