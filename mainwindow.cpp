@@ -18,7 +18,7 @@ MainWindow::~MainWindow()
 
 void MainWindow::pushButtonclicked()
 {
-   QMessageBox::information(this,"","I create yyyyyy");
+   QMessageBox::information(this,"","I create conflice");
 
-   //senbranck: yyyyyyyyy
+   //conflictest:write this sentence.
 }
