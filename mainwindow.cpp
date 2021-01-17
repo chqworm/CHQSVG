@@ -7,7 +7,7 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    connect(ui->pushButton,SIGNAL(clicked()),this,SLOT(pushButtonclicked()));
+    //connect(ui->pushButton,SIGNAL(clicked()),this,SLOT(pushButtonclicked()));
 
 }
 
