@@ -7,7 +7,8 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    connect(ui->pushButton,SIGNAL(clicked()),this,SLOT(pushButtonclicked()));//don't
+    //connect(ui->pushButton,SIGNAL(clicked()),this,SLOT(pushButtonclicked()));
+
 
 }
 
@@ -18,6 +19,7 @@ MainWindow::~MainWindow()
 
 
 //Other write something. ok 
+//other write again again 
 
 void MainWindow::pushButtonclicked()
 {
