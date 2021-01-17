@@ -19,4 +19,6 @@ MainWindow::~MainWindow()
 void MainWindow::pushButtonclicked()
 {
    QMessageBox::information(this,"","I create");
+
+   //senbranck: XXXXXXXXX
 }
