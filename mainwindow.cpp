@@ -16,6 +16,9 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
+
+//Other write something. ok 
+
 void MainWindow::pushButtonclicked()
 {
    QMessageBox::information(this,"","I create xxxxxx");
@@ -24,3 +27,4 @@ void MainWindow::pushButtonclicked()
    //conflictest:write this sentence.
    //stashed test 临时工作保存；
 }
+
