@@ -20,5 +20,5 @@ void MainWindow::pushButtonclicked()
 {
    QMessageBox::information(this,"","I create yyyyyy");
 
-   //senbranck: yyyyyyyyy
+   //master: I write this XXX;
 }
