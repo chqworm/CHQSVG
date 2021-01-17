@@ -18,7 +18,7 @@ MainWindow::~MainWindow()
 
 void MainWindow::pushButtonclicked()
 {
-   QMessageBox::information(this,"","I create");
+   QMessageBox::information(this,"","I create yyyyyy");
 
-   //senbranck: XXXXXXXXX
+   //senbranck: yyyyyyyyy
 }
