@@ -22,6 +22,10 @@ MainWindow::~MainWindow()
 
 void MainWindow::pushButtonclicked()
 {
-   QMessageBox::information(this,"","I create");
+   QMessageBox::information(this,"","I create xxxxxx");
+
+   //master: I write this XXX;
+   //conflictest:write this sentence.
+   //stashed test 临时工作保存；
 }
 
