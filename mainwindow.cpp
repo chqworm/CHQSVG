@@ -18,7 +18,8 @@ MainWindow::~MainWindow()
 
 void MainWindow::pushButtonclicked()
 {
-   QMessageBox::information(this,"","I create yyyyyy");
+   QMessageBox::information(this,"","I create xxxxxx");
 
    //master: I write this XXX;
+   //conflictest:write this sentence.
 }
