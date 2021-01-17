@@ -22,4 +22,5 @@ void MainWindow::pushButtonclicked()
 
    //master: I write this XXX;
    //conflictest:write this sentence.
+   //stashed test 临时工作保存；
 }
