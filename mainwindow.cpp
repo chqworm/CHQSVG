@@ -12,4 +12,4 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
-
+//Other write something.
