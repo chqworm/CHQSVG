@@ -18,7 +18,7 @@ MainWindow::~MainWindow()
 
 
 //Other write something. ok 
-//other write again
+//other write again again 
 
 void MainWindow::pushButtonclicked()
 {
